@@ -1,0 +1,1815 @@
+﻿Log file open, 02/02/23 16:19:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11648)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TerAnothCity
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" H:\TerAnoth\TerAnoth\TerAnothCity\TerAnothCity.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-10940X CPU @ 3.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2747ff1d41a0cbf08b9a23a8433fb79b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.814180
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-C407A36348C8FC73E4DDB587E07571A8
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.30 seconds
+LogConfig: Display: Loading Windows ini files took 0.31 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Android ini files took 0.72 seconds
+LogConfig: Display: Loading Unix ini files took 0.74 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading IOS ini files took 0.82 seconds
+LogConfig: Display: Loading Mac ini files took 0.83 seconds
+LogPluginManager: Mounting Engine plugin HoudiniEngine
+LogConfig: Display: Loading HoloLens ini files took 0.87 seconds
+LogConfig: Display: Loading TVOS ini files took 0.87 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.88 seconds
+LogConfig: Display: Loading Linux ini files took 0.88 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/HoudiniEngine/Content/' mounted to '/HoudiniEngine/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2486] (), CPU: Intel(R) Core(TM) i9-10940X CPU @ 3.30GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.02-23.19.42:436][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.02-23.19.42:436][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.02-23.19.42:436][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.02-23.19.42:436][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.02-23.19.42:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.02-23.19.42:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.02-23.19.42:442][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.02-23.19.42:442][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.02-23.19.42:442][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.02-23.19.42:442][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.02-23.19.42:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.02-23.19.42:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.02-23.19.42:443][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.02-23.19.42:456][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.02-23.19.42:636][  0]LogD3D12RHI: Aftermath initialized
+[2023.02.02-23.19.42:636][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.02.02-23.19.43:445][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.02-23.19.43:445][  0]LogD3D12RHI: Adapter has 11049MB of dedicated video memory, 0MB of dedicated system memory, and 57211MB of shared system memory, 2 output[s]
+[2023.02.02-23.19.43:518][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.02.02-23.19.43:518][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 57211MB of shared system memory, 0 output[s]
+[2023.02.02-23.19.43:519][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.02.02-23.19.43:519][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.02-23.19.43:519][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.02-23.19.43:520][  0]LogHAL: Display: Platform has ~ 112 GB [119982182400 / 137438953472 / 112], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.02-23.19.43:520][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.02-23.19.43:520][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.02-23.19.43:520][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.02-23.19.43:521][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.02-23.19.43:521][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/TerAnoth/TerAnoth/TerAnothCity/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.02-23.19.43:522][  0]LogInit: Computer: EEVEE-WIN
+[2023.02.02-23.19.43:522][  0]LogInit: User: sproxy
+[2023.02.02-23.19.43:522][  0]LogInit: CPU Page size=4096, Cores=13
+[2023.02.02-23.19.43:522][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.02-23.19.43:522][  0]LogMemory: Memory total: Physical=111.7GB (112GB approx)
+[2023.02.02-23.19.43:522][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.02-23.19.43:522][  0]LogMemory: Process Physical Memory: 299.09 MB used, 313.15 MB peak
+[2023.02.02-23.19.43:522][  0]LogMemory: Process Virtual Memory: 285.76 MB used, 285.76 MB peak
+[2023.02.02-23.19.43:522][  0]LogMemory: Physical Memory: 10005.21 MB used,  104418.72 MB free, 114423.92 MB total
+[2023.02.02-23.19.43:522][  0]LogMemory: Virtual Memory: 12442.27 MB used,  118365.66 MB free, 130807.92 MB total
+[2023.02.02-23.19.43:522][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.02-23.19.43:536][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.02-23.19.43:571][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.02-23.19.43:576][  0]LogInit: Using OS detected language (en-US).
+[2023.02.02-23.19.43:576][  0]LogInit: Using OS detected locale (en-US).
+[2023.02.02-23.19.43:578][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.02.02-23.19.43:868][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.02-23.19.43:967][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.02-23.19.43:967][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.02.02-23.19.43:967][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.02.02-23.19.43:968][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.02.02-23.19.44:047][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.02-23.19.44:047][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.02-23.19.44:332][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.02.02-23.19.44:357][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.02.02-23.19.44:357][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.02.02-23.19.44:520][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.02.02-23.19.44:737][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.02.02-23.19.44:760][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.02.02-23.19.44:781][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.02.02-23.19.44:889][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.02.02-23.19.44:889][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.02.02-23.19.45:000][  0]LogD3D12RHI:     GPU DeviceId: 0x1e04 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.02-23.19.45:000][  0]LogWindows: Attached monitors:
+[2023.02.02-23.19.45:000][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.02.02-23.19.45:000][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 0) -> (4480, 1040), device: '\\.\DISPLAY2'
+[2023.02.02-23.19.45:000][  0]LogWindows: Found 2 attached monitors.
+[2023.02.02-23.19.45:000][  0]LogWindows: EnumDisplayDevices:
+[2023.02.02-23.19.45:000][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.02.02-23.19.45:001][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.02.02-23.19.45:002][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.02.02-23.19.45:003][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.02-23.19.45:003][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.02-23.19.45:003][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2023.02.02-23.19.45:003][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.02.02-23.19.45:003][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.02.02-23.19.45:003][  0]LogRHI: Texture pool is 6477 MB (70% of 9252 MB)
+[2023.02.02-23.19.45:003][  0]LogD3D12RHI: Async texture creation enabled
+[2023.02.02-23.19.45:003][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.02.02-23.19.45:026][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.02.02-23.19.45:042][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="H:/TerAnoth/TerAnoth/TerAnothCity/TerAnothCity.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/TurnkeyReport_0.log" -log="H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/TurnkeyLog_0.log" -project="H:/TerAnoth/TerAnoth/TerAnothCity/TerAnothCity.uproject"  -platform=all'
+[2023.02.02-23.19.45:043][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="H:/TerAnoth/TerAnoth/TerAnothCity/TerAnothCity.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/TurnkeyReport_0.log" -log="H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/TurnkeyLog_0.log" -project="H:/TerAnoth/TerAnoth/TerAnothCity/TerAnothCity.uproject"  -platform=all" ]
+[2023.02.02-23.19.45:099][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.02-23.19.45:119][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.02.02-23.19.45:119][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.02-23.19.45:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.02-23.19.45:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.02-23.19.45:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.02-23.19.45:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.02-23.19.45:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.02-23.19.45:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.02-23.19.45:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.02-23.19.45:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.02-23.19.45:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.02-23.19.45:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.02-23.19.45:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.02-23.19.45:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.02-23.19.45:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.02-23.19.45:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.02-23.19.45:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.02-23.19.45:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.02-23.19.45:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.02-23.19.45:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.02-23.19.45:242][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.02-23.19.45:267][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.02-23.19.45:274][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.02-23.19.45:274][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.02-23.19.45:274][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.02-23.19.45:274][  0]LogTargetPlatformManager:   PCM
+[2023.02.02-23.19.45:281][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.02-23.19.45:281][  0]LogTargetPlatformManager:   BINKA
+[2023.02.02-23.19.45:281][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.02-23.19.45:281][  0]LogTargetPlatformManager:   OGG
+[2023.02.02-23.19.45:281][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.02-23.19.45:281][  0]LogTargetPlatformManager:   OPUS
+[2023.02.02-23.19.45:383][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.02-23.19.45:398][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.02-23.19.45:405][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.02-23.19.45:405][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.02-23.19.45:405][  0]LogShaderCompilers: Display: Compiling shader autogen file: H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.02-23.19.45:414][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.02-23.19.45:415][  0]LogShaderCompilers: Display: Compiling shader autogen file: H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.02-23.19.45:430][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.02-23.19.45:441][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/TerAnoth/TerAnoth/TerAnothCity/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.02-23.19.45:441][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.02-23.19.45:443][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/TerAnoth/TerAnoth/TerAnothCity/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.02-23.19.45:444][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.02-23.19.45:470][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.02.02-23.19.45:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.02-23.19.45:470][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.02-23.19.45:504][  0]LogDerivedDataCache: Speed tests for C:/Users/sproxy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2023.02.02-23.19.45:504][  0]LogDerivedDataCache: Display: Performance to C:/Users/sproxy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=115.51MBs, RandomWriteSpeed=36.93MBs. Assigned SpeedClass 'Local'
+[2023.02.02-23.19.45:507][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sproxy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.02-23.19.45:507][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.02-23.19.45:507][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.02-23.19.45:540][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.02-23.19.45:540][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.02-23.19.45:542][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (H:/TerAnoth/TerAnoth/TerAnothCity/Intermediate/Shaders/WorkingDirectory/11908/).
+[2023.02.02-23.19.45:542][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sproxy/AppData/Local/Temp/UnrealShaderWorkingDir/28E0D7BB46BC296CFCD6B7B76450D51E/'.
+[2023.02.02-23.19.45:542][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.02-23.19.45:542][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 13 workers.
+[2023.02.02-23.19.49:520][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.02-23.19.49:520][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.02-23.19.49:521][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.02-23.19.49:621][  0]LogAssetRegistry: FAssetRegistry took 0.0448 seconds to start up
+[2023.02.02-23.19.49:633][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.02-23.19.49:956][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.02-23.19.49:959][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.02-23.19.51:647][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.02-23.19.51:647][  0]LogDeviceProfileManager: Active device profile: [00000BFAA7EB3800][00000BFAA204A000 50] WindowsEditor
+[2023.02.02-23.19.51:647][  0]LogDeviceProfileManager: Profiles: [00000BFAA7EB39C0][00000BFAA2042800 50] Windows, [00000BFAA7EB3800][00000BFAA204A000 50] WindowsEditor, [00000BFAA7EB1500][00000BFAA311C800 50] WindowsServer, [00000BFAA7EB3D40][00000BFAA07E5000 50] WindowsClient, [00000BFAA7EB2BC0][00000BFA8B9F7800 50] IOS, [00000BFAA7EB0540][00000BFAA311A000 50] iPadAir2, [00000BFAA7EB4EC0][00000BFAA7EF0000 50] IPadPro, [00000BFAA7EB5240][00000BFAA7EF2800 50] iPadAir3, [00000BFAA7EB0A80][00000BFAA7EF7800 50] iPadAir4, [00000BFAA7EB0700][00000BFAA7EFA000 50] iPadMini4, [00000BFAA7EB4600][00000BFAA7EFC800 50] iPadMini5, [00000BFAA7EB2F40][00000BFAA2040000 50] iPadMini6, [00000BFAA7EB7A80][00000BFAA7F12800 50] iPhone6S, [00000BFAA7EB78C0][00000BFAA7F10000 50] iPhone7, [00000BFAA7EB7540][00000BFAA7F15000 50] iPodTouch7, [00000BFAA7EB1A40][00000BFAA7F1A000 50] iPhone6SPlus, [00000BFAA7EB2680][00000BFAA7F1C800 50] iPhone7Plus, [00000BFAA7EB3640][00000BFAA7EF5000 50] iPhoneSE, [00000BFAA7EB6740][00000BFAA7F17800 50] iPhone8, [00000BFAA7EB0E00][00000BFAA7F20000 50] iPhone8Plus, [00000BFAA7EB4980][00000BFAA7F25000 50] iPhoneX, [00000BFAA7EB32C0][00000BFAA7F27800 50] iPhoneXS, [00000BFAA7EB6E40][00000BFAA7F2A000 50] iPhoneXSMax, [00000BFAA7EB2D80][00000BFAA7F2C800 50] iPhoneXR, [00000BFAA7EB40C0][00000BFAA07E7800 50] iPhone11, [00000BFAA7EB2840][00000BFAA7EC0000 50] iPhone11Pro, [00000BFAA7EB63C0][00000BFAA7EC5000 50] iPhone11ProMax, [00000BFAA7EB3480][00000BFAA7EC7800 50] iPhoneSE2, [00000BFAA7EB55C0][00000BFAA7ECA000 50] iPhone12Mini, [00000BFAA7EB3F00][00000BFAA7ECC800 50] iPhone12, [00000BFAA7EB7000][00000BFAA7F22800 50] iPhone12Pro, [00000BFAA7EB2300][00000BFAA7F50000 50] iPhone12ProMax, [00000BFAA7EB4280][00000BFAA7F55000 50] iPhone13Mini, [00000BFAA7EB5400][00000BFAA7F57800 50] iPhone13, [00000BFAA7EB47C0][00000BFAA7F5A000 50] iPhone13Pro, [00000BFAA7EB5080][00000BFAA7F5C800 50] iPhone13ProMax, [00000BFAA7EB1F80][00000BFAA7EC2800 50] iPadPro105, [00000BFAA7EB1880][00000BFAA7F60000 50] iPadPro129, [00000BFAA7EB3100][00000BFAA7F65000 50] iPadPro97, [00000BFAA7EB08C0][00000BFAA7F67800 50] iPadPro2_129, [00000BFAA7EB6200][00000BFAA7F6A000 50] iPad5, [00000BFAA7EB5B00][00000BFAA7F6C800 50] iPad6, [00000BFAA7EB0C40][00000BFAA7F52800 50] iPad7, [00000BFAA7EB16C0][00000BFAA7F70000 50] iPad8, [00000BFAA7EB4B40][00000BFAA7F75000 50] iPad9, [00000BFAA7EB1340][00000BFAA7F77800 50] iPadPro11, [00000BFAA7EB2A00][00000BFAA7F7A000 50] iPadPro2_11, [00000BFAA7EB1180][00000BFAA7F7C800 50] iPadPro3_11, [00000BFAA7EB2140][00000BFAA7F62800 50] iPadPro3_129, [00000BFAA7EB5780][00000BFAA7F80000 50] iPadPro4_129, [00000BFAA7EB6AC0][00000BFAA7F85000 50] iPadPro5_129, [00000BFAA7EB7FC0][00000BFAA7F87800 50] AppleTV, [00000BFAA7EB7C40][00000BFAA7F8A000 50] AppleTV4K, [00000BFAA7EB8880][00000BFAA7F8C800 50] TVOS, [00000BFAA7EBA640][00000BFAA7FA0000 50] Mac, [00000BFAA7EBA9C0][00000BFAA7FA2800 50] MacEditor, [00000BFAA7EBAB80][00000BFAA7FA7800 50] MacClient, [00000BFAA7EB6040][00000BFAA7FAA000 50] MacServer, [00000BFAA7EBAD40][00000BFAA7F72800 50] Linux, [00000BFAA7EBB0C0][00000BFAA7F82800 50] LinuxEditor, [00000BFAA7EB94C0][00000BFAA7FAC800 50] LinuxArm64Editor, [00000BFAA7EB7E00][00000BFAA7F90000 50] LinuxArm64, [00000BFAA7EB7380][00000BFAA7F95000 50] LinuxClient, [00000BFAA7EB8F80][00000BFAA7F97800 50] LinuxArm64Client, [00000BFAA7EB9BC0][00000BFAA7F9A000 50] LinuxServer, [00000BFAA7EB1DC0][00000BFAA7F9C800 50] LinuxArm64Server, [00000BFAA7EB86C0][00000BFAA7FA5000 50] Android, [00000BFAA7EB6C80][00000BFAA7FB0000 50] Android_Preview_OpenGL, [00000BFAA7EBB440][00000BFAA7FB5000 50] Android_Preview_Vulkan, [00000BFAA7EB8340][00000BFAA7FB7800 50] Android_Low, [00000BFAA7EB9F40][00000BFAA7FBA000 50] Android_Mid, [00000BFAA7EB4440][00000BFAA7FBC800 50] Android_High, [00000BFAA7EBA2C0][00000BFAA7F92800 50] Android_Default, [00000BFAA7EB1C00][00000BFAA7FC0000 50] Android_Adreno4xx, [00000BFAA7EBBB40][00000BFAA7FC5000 50] Android_Adreno5xx_Low, [00000BFAA7EBAF00][00000BFAA7FC7800 50] Android_Adreno5xx, [00000BFAA7EB9300][00000BFAA7FCA000 50] Android_Adreno6xx, [00000BFAA7EB5E80][00000BFAA7FCC800 50] Android_Adreno6xx_Vulkan, [00000BFAA7EB4D00][00000BFAA7FB2800 50] Android_Adreno7xx, [00000BFAA7EB8DC0][00000BFAA7FD0000 50] Android_Adreno7xx_Vulkan, [00000BFAA7EB9840][00000BFAA7FD5000 50] Android_Mali_T6xx, [00000BFAA7EB6580][00000BFAA7FD7800 50] Android_Mali_T7xx, [00000BFAA7EB5940][00000BFAA7FDA000 50] Android_Mali_T8xx, [00000BFAA7EBA800][00000BFAA7FDC800 50] Android_Mali_G71, [00000BFAA7EB8C00][00000BFAA7FC2800 50] Android_Mali_G72, [00000BFAA7EB24C0][00000BFAA7FE0000 50] Android_Mali_G72_Vulkan, [00000BFAA7EB0000][00000BFAA7FE5000 50] Android_Mali_G76, [00000BFAA7EB7700][00000BFAA7FE7800 50] Android_Mali_G76_Vulkan, [00000BFAA7EBC400][00000BFAA7FEA000 50] Android_Mali_G77, [00000BFAA7EBB980][00000BFAA7FEC800 50] Android_Mali_G77_Vulkan, [00000BFAA7EB6900][00000BFAA7FD2800 50] Android_Mali_G78, [00000BFAA7EBA100][00000BFAA7FF0000 50] Android_Mali_G78_Vulkan, [00000BFAA7EBC5C0][00000BFAA7FF5000 50] Android_Mali_G710, [00000BFAA7EBB7C0][00000BFAA7FF7800 50] Android_Mali_G710_Vulkan, [00000BFAA7EBC940][00000BFAA7FFA000 50] Android_Xclipse_920, [00000BFAA7EBBD00][00000BFAA7FFC800 50] Android_Xclipse_920_Vulkan, [00000BFAA7EBCCC0][00000BFAA7FE2800 50] Android_Vulkan_SM5, [00000BFAA7EB8180][00000BFAA8190000 50] Android_PowerVR_G6xxx, [00000BFAA7EBD3C0][00000BFAA8195000 50] Android_PowerVR_GT7xxx, [00000BFAA7EBC780][00000BFAA8197800 50] Android_PowerVR_GE8xxx, [00000BFAA7EBA480][00000BFAA819A000 50] Android_PowerVR_GM9xxx, [00000BFAA7EBB600][00000BFAA819C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000BFAA7EB0FC0][00000BFAA7FF2800 50] Android_TegraK1, [00000BFAA7EB9140][00000BFAA81A0000 50] Android_Unknown_Vulkan, [00000BFAA7EBDC80][00000BFAA81A5000 50] Oculus_Quest, [00000BFAA7EB0380][00000BFAA81A7800 50] Oculus_Quest2, [00000BFAA7EBE380][00000BFAA81AA000 50] HoloLens, 
+[2023.02.02-23.19.51:647][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.02-23.19.51:679][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.02.02-23.19.52:088][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.02.02-23.19.53:794][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.02-23.19.53:794][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.02-23.19.53:794][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.02-23.19.53:794][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.02-23.19.53:794][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.02-23.19.54:207][  0]LogNetVersion: TerAnothCity 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 61770630)
+[2023.02.02-23.19.56:171][  0]LogSlate: Border
+[2023.02.02-23.19.56:171][  0]LogSlate: BreadcrumbButton
+[2023.02.02-23.19.56:171][  0]LogSlate: Default
+[2023.02.02-23.19.56:171][  0]LogSlate: Icons.Save
+[2023.02.02-23.19.56:171][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.02-23.19.56:171][  0]LogSlate: ListView
+[2023.02.02-23.19.56:171][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.02-23.19.56:171][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.02-23.19.56:171][  0]LogSlate: TableView.DarkRow
+[2023.02.02-23.19.56:171][  0]LogSlate: TableView.Row
+[2023.02.02-23.19.56:171][  0]LogSlate: TreeView
+[2023.02.02-23.20.07:998][  0]SourceControl: Source control is disabled
+[2023.02.02-23.20.08:341][  0]SourceControl: Source control is disabled
+[2023.02.02-23.20.08:341][  0]SourceControl: Source control is disabled
+[2023.02.02-23.20.08:967][  0]LogUObjectArray: 20576 objects as part of root set at end of initial load.
+[2023.02.02-23.20.08:998][  0]LogUObjectAllocator: 5590096 out of 0 bytes used by permanent object pool.
+[2023.02.02-23.20.08:998][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.02-23.20.19:237][  0]LogPython: Using Python 3.9.7
+[2023.02.02-23.20.23:839][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C96C9D99441FFF0712928C8C81FE4052 | Instance: 2197C9A547DEA73F7F92869989026456 (EEVEE-WIN-11908).
+[2023.02.02-23.20.25:068][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.02-23.20.25:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.02-23.20.25:149][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.20.25:149][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.20.26:414][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2023.02.02-23.20.26:466][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Side Effects Software/Houdini 19.0.589/bin
+[2023.02.02-23.20.26:490][  0]LogMaterial: Display: Missing cached shadermap for houdini_default_material in PCD3D_SM5, Default, SM5 (DDC key hash: 511539A006F3162E9CCA2E66C6D4ECAF6F4E9444), compiling. 
+[2023.02.02-23.20.26:641][  0]LogMaterial: Display: Missing cached shadermap for houdini_templated_material in PCD3D_SM5, Default, SM5 (DDC key hash: 24556F60F29AFF38750E0A4C180C309B8AE46E13), compiling. 
+[2023.02.02-23.20.26:813][  0]LogStaticMesh: Display: Building static mesh houdini_logo...
+[2023.02.02-23.20.26:815][  0]LogStaticMesh: Built static mesh [0.12s] /HoudiniEngine/houdini_logo.houdini_logo
+[2023.02.02-23.20.26:815][  0]LogTexture: Display: Building textures: /HoudiniEngine/big_question_mark.big_question_mark (BGRA8, 512X513 X1X1) (Required Memory Estimate: 5.009766 MB), EncodeSpeed: Fast
+[2023.02.02-23.20.26:815][  0]LogMaterial: Display: Missing cached shadermap for default_reference_static_mesh_material in PCD3D_SM5, Default, SM5 (DDC key hash: 7AECD3C00A5CF03F1A5CFDCE02C6DC5EAD052EF4), compiling. 
+[2023.02.02-23.20.30:940][  0]LogStaticMesh: Display: Building static mesh default_reference_static_mesh...
+[2023.02.02-23.20.30:940][  0]LogStaticMesh: Built static mesh [0.01s] /HoudiniEngine/default_reference_static_mesh.default_reference_static_mesh
+[2023.02.02-23.20.30:940][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.02-23.20.34:156][  0]SourceControl: Source control is disabled
+[2023.02.02-23.20.34:321][  0]SourceControl: Source control is disabled
+[2023.02.02-23.20.34:377][  0]LogUProjectInfo: Found projects:
+[2023.02.02-23.20.34:504][  0]SourceControl: Source control is disabled
+[2023.02.02-23.20.35:287][  0]LogMaterial: Display: Missing cached shadermap for M_MoviePipelineRenderPreview in PCD3D_SM5, Default, SM5 (DDC key hash: 4F294180210AFA4133C98FC71F0036E5D16C83E9), compiling. 
+[2023.02.02-23.20.35:744][  0]LogMaterial: Display: Missing cached shadermap for MoviePipeline_StencilCutout in PCD3D_SM5, Default, SM5 (DDC key hash: B067C8A092C2F0EF338935F5C48C0970D3853746), compiling. 
+[2023.02.02-23.20.35:811][  0]LogMaterial: Display: Missing cached shadermap for MovieRenderQueue_WorldDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 29A14A7A034D67A135BB2772AEA69DA603F73B10), compiling. 
+[2023.02.02-23.20.35:840][  0]LogMaterial: Display: Missing cached shadermap for MovieRenderQueue_MotionVectors in PCD3D_SM5, Default, SM5 (DDC key hash: 80F7CE6B3DB2BF1A5856063F3A8CCA5515A85550), compiling. 
+[2023.02.02-23.20.37:327][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.02-23.20.37:844][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.02-23.20.37:844][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.02-23.20.40:502][  0]LogCollectionManager: Loaded 0 collections in 0.010035 seconds
+[2023.02.02-23.20.41:012][  0]LogFileCache: Scanning file cache for directory 'H:/TerAnoth/TerAnoth/TerAnothCity/Saved/Collections/' took 0.01s
+[2023.02.02-23.20.41:012][  0]LogFileCache: Scanning file cache for directory 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/Developers/sproxy/Collections/' took 0.01s
+[2023.02.02-23.20.41:012][  0]LogFileCache: Scanning file cache for directory 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/Collections/' took 0.01s
+[2023.02.02-23.20.42:248][  0]LogEngine: Initializing Engine...
+[2023.02.02-23.20.42:314][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.02-23.20.42:352][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.015 s
+[2023.02.02-23.20.43:775][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.02-23.20.43:776][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.02-23.20.43:946][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.02-23.20.44:057][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.02-23.20.44:076][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.02-23.20.44:179][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.02-23.20.44:181][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.02-23.20.44:181][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.02-23.20.44:182][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.02-23.20.44:183][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.02-23.20.44:183][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-23.20.44:183][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-23.20.44:185][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-23.20.44:185][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-23.20.44:185][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-23.20.44:389][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.02-23.20.44:484][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.02.02-23.20.44:493][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-23.20.44:500][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-23.20.44:500][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-23.20.44:501][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.02-23.20.44:501][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.02-23.20.44:505][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.02-23.20.44:505][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.02-23.20.44:505][  0]LogInit: FAudioDevice initialized.
+[2023.02.02-23.20.44:506][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.02-23.20.44:506][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.02-23.20.44:506][  0]LogInit: Texture streaming: Enabled
+[2023.02.02-23.20.44:699][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.02.02-23.20.44:758][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.02-23.20.44:971][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.02-23.20.45:051][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.02-23.20.45:052][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.02-23.20.55:734][  0]LogLiveCoding: Display: First instance in process group "UE_TerAnothCity_0x491ed7e6", spawning console
+[2023.02.02-23.20.55:735][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.02-23.20.55:735][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.02-23.20.56:926][  0]LogInit: Transaction tracking system initialized
+[2023.02.02-23.20.57:475][  0]BlueprintLog: New page: Editor Load
+[2023.02.02-23.20.58:928][  0]LocalizationService: Localization service is disabled
+[2023.02.02-23.20.59:232][  0]TimingProfiler: Initialize
+[2023.02.02-23.20.59:232][  0]TimingProfiler: OnSessionChanged
+[2023.02.02-23.20.59:232][  0]LoadingProfiler: Initialize
+[2023.02.02-23.20.59:232][  0]LoadingProfiler: OnSessionChanged
+[2023.02.02-23.20.59:232][  0]NetworkingProfiler: Initialize
+[2023.02.02-23.20.59:232][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.02-23.20.59:232][  0]MemoryProfiler: Initialize
+[2023.02.02-23.20.59:233][  0]MemoryProfiler: OnSessionChanged
+[2023.02.02-23.21.02:124][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2023.02.02-23.21.02:457][  0]LogSlate: Only pngs are supported in Slate
+[2023.02.02-23.21.02:457][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2023.02.02-23.21.02:458][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2023.02.02-23.21.03:267][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.02-23.21.04:693][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.02-23.21.04:697][  0]SourceControl: Source control is disabled
+[2023.02.02-23.21.04:697][  0]LogUnrealEdMisc: Loading editor; pre map load, took 91.431
+[2023.02.02-23.21.04:697][  0]Cmd: MAP LOAD FILE="H:/TerAnoth/TerAnoth/TerAnothCity/Content/Levels/TerAnothVillage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.02-23.21.05:513][  0]LightingResults: New page: Lighting Build
+[2023.02.02-23.21.05:524][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-23.21.05:524][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-23.21.05:524][  0]MapCheck: New page: Map Check
+[2023.02.02-23.21.05:524][  0]LightingResults: New page: Lighting Build
+[2023.02.02-23.21.05:546][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-23.21.05:558][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.02-23.21.06:113][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TerAnothVillage'.
+[2023.02.02-23.21.06:127][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.02-23.21.06:128][  0]LogAIModule: Creating AISystem for world TerAnothVillage
+[2023.02.02-23.21.06:211][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.02-23.21.06:219][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.02.02-23.21.06:553][  0]LogFileCache: Scanning file cache for directory 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/' took 5.51s
+[2023.02.02-23.21.06:553][  0]LogMaterial: Display: Missing cached shadermap for M_ProcGrid in PCD3D_SM5, Default, SM5 (DDC key hash: DE11D2D5C46857906DFCFA14DC544EFEB3D02445), compiling. 
+[2023.02.02-23.21.06:680][  0]LogLinker: Warning: [AssetLog] H:\TerAnoth\TerAnoth\TerAnothCity\Content\__ExternalActors__\Levels\TerAnothVillage\0\0B\R8QQ3LC3LNHH38QH4ZJEFO.uasset: Failed to load '/Engine/BasicShapes/M_GrayBasicShapeMat': Can't find file.
+[2023.02.02-23.21.06:688][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Engine/BasicShapes/M_GrayBasicShapeMat'
+[2023.02.02-23.21.06:942][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6614ADBF3661DB0E667FCFD492F7D92E2D39E557), compiling. 
+[2023.02.02-23.21.07:427][  0]LogLinker: Warning: [AssetLog] H:\TerAnoth\TerAnoth\TerAnothCity\Content\__ExternalActors__\Levels\TerAnothVillage\3\27\6RM635DF7GF5MUA2B70LLX.uasset: Failed to load '/Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_04_FoliageType': Can't find file.
+[2023.02.02-23.21.07:428][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_04_FoliageType'
+[2023.02.02-23.21.07:435][  0]LogLinker: Warning: [AssetLog] H:\TerAnoth\TerAnoth\TerAnothCity\Content\__ExternalActors__\Levels\TerAnothVillage\3\27\6RM635DF7GF5MUA2B70LLX.uasset: Failed to load '/Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_04': Can't find file.
+[2023.02.02-23.21.07:435][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_04'
+[2023.02.02-23.21.07:501][  0]MapCheck: Warning: InstancedFoliageActor_25600_-1_-1_-1 Foliage instances for a missing static mesh have been removed. 
+[2023.02.02-23.21.21:988][  0]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: E4571E7CE448B392A36D5904BA60133B8A7507BD), compiling. 
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithCurveSupportsDoorStone...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithCurveSupportsDoorCurvedStone...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithCurveSupportsDoorCurvedStucco...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithCurveSupportsDoorStucco...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithTriangleSupportsDoorStone...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithTriangleSupportsDoorStoneCurve...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithTriangleSupportsDoorStucco...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_balconyWithTriangleSupportsDoorCurvedStucco...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_doorCover1...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_doorCoverCanvas1...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_stone1...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Display: Building static mesh SM_stoneBraces1...
+[2023.02.02-23.21.24:571][  0]LogStaticMesh: Adjacency [0.01s], tris: 56, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.01s], tris: 472, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.01s], tris: 496, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.01s], tris: 634, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.00s], tris: 1248, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.01s], tris: 1324, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.01s], tris: 1154, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.00s], tris: 854, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.01s], tris: 742, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 56
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Input: 1 Clusters, 56 Triangles and 112 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Output without splits: 1 Clusters, 56 Triangles and 112 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Output with splits: 1 Clusters, 56 Triangles and 112 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Root: GPU size: 1824 bytes. 1 Pages. 1824.000 bytes per page (5.566% utilization).
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Page data disk size: 2004 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Total GPU size: 1824 bytes, Total disk size: 2028 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.00s], tris: 1436, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 6. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 5. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 7. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 10. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.200000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 12. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 11. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Environment/KitBash/SM_doorCoverCanvas1.SM_doorCoverCanvas1
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.00s], tris: 1856, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.833333
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.00s], tris: 1744, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Display: Building static mesh SM_stoneDoor1...
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 22. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 15. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 14. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 2. Error 10.0804, 10.0804, 10.0804
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 2. Error 10.5504, 10.5504, 10.5504
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 1. Error 22.9502, 22.9502, 22.9502
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 3. Error 7.0124, 7.0124, 7.0124
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 1. Error 25.6450, 25.6450, 25.6450
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Adjacency [0.00s], tris: 636, UVs 2
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 5. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 3. Error 26.2942, 26.2942, 26.2942
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 470
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 2. Error 19.1229, 19.1229, 19.1229
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Input: 7 Clusters, 850 Triangles and 1722 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Output without splits: 7 Clusters, 850 Triangles and 1722 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Output with splits: 9 Clusters, 850 Triangles and 1724 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 494
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Root: GPU size: 26180 bytes. 1 Pages. 26180.000 bytes per page (79.895% utilization).
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Page data disk size: 21424 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Total GPU size: 26180 bytes, Total disk size: 21480 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 1. Error 26.7576, 26.7576, 26.7576
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Reduce [0.03s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Nanite build [0.03s]
+
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Input: 7 Clusters, 874 Triangles and 1770 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Output without splits: 7 Clusters, 874 Triangles and 1770 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Output with splits: 9 Clusters, 874 Triangles and 1774 Vertices
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Root: GPU size: 27068 bytes. 1 Pages. 27068.000 bytes per page (82.605% utilization).
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Page data disk size: 22508 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh:   Total GPU size: 27068 bytes, Total disk size: 22564 bytes.
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Nanite build [0.04s]
+
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 2. Error 26.2942, 26.2942, 26.2942
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 5. Error 18.2500, 18.2500, 18.2500
+[2023.02.02-23.21.24:573][  0]LogStaticMesh: Num clusters 5. Error 18.2066, 18.2066, 18.2066
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 3. Error 10.0948, 10.0948, 10.0948
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 615
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Environment/KitBash/SM_stone1.SM_stone1
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 1. Error 36.8287, 36.8287, 36.8287
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Reduce [0.04s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Environment/KitBash/SM_stoneBraces1.SM_stoneBraces1
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Input: 11 Clusters, 1387 Triangles and 2813 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Output without splits: 11 Clusters, 1387 Triangles and 2813 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Output with splits: 16 Clusters, 1387 Triangles and 2817 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Display: Building static mesh SM_stoneDoorBrace...
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Root: GPU size: 32172 bytes. 1 Pages. 32172.000 bytes per page (98.181% utilization).
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Streaming: GPU size: 11668 bytes. 1 Pages. 11668.000 bytes per page (8.902% utilization).
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Page data disk size: 35644 bytes. Fixup data size: 192 bytes.
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Total GPU size: 43840 bytes, Total disk size: 35836 bytes.
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 4. Error 18.2807, 18.2807, 18.2807
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Nanite build [0.04s]
+
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 2. Error 22.0698, 22.0698, 22.0698
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 3. Error 19.6547, 19.6547, 19.6547
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 3. Error 19.3503, 19.3503, 19.3503
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 1. Error 22.0698, 22.0698, 22.0698
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Display: Building static mesh SM_stoneDoorBraceCurve...
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 719
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Environment/KitBash/SM_doorCover1.SM_doorCover1
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 2. Error 24.2287, 24.2287, 24.2287
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Input: 12 Clusters, 1498 Triangles and 3018 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Output without splits: 12 Clusters, 1498 Triangles and 3018 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Output with splits: 18 Clusters, 1498 Triangles and 3024 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 18, Slow Path Clusters: 0, 1 Material: 18, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Root: GPU size: 29824 bytes. 1 Pages. 29824.000 bytes per page (91.016% utilization).
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Streaming: GPU size: 18284 bytes. 1 Pages. 18284.000 bytes per page (13.950% utilization).
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Page data disk size: 41496 bytes. Fixup data size: 224 bytes.
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Total GPU size: 48108 bytes, Total disk size: 41720 bytes.
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 2. Error 21.8163, 21.8163, 21.8163
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Nanite build [0.06s]
+
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 634
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 1. Error 42.9457, 42.9457, 42.9457
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Reduce [0.05s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 2. Error 22.3810, 22.3810, 22.3810
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Display: Building static mesh SM_stoneDoorCurve1...
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Input: 11 Clusters, 1392 Triangles and 2838 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Output without splits: 11 Clusters, 1392 Triangles and 2838 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Output with splits: 18 Clusters, 1392 Triangles and 2842 Vertices
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 18, Slow Path Clusters: 0, 1 Material: 18, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 1. Error 41.2437, 41.2437, 41.2437
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Reduce [0.06s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Num clusters 1. Error 42.2902, 42.2902, 42.2902
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Reduce [0.06s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Root: GPU size: 32412 bytes. 1 Pages. 32412.000 bytes per page (98.914% utilization).
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Streaming: GPU size: 11700 bytes. 1 Pages. 11700.000 bytes per page (8.926% utilization).
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Page data disk size: 36308 bytes. Fixup data size: 208 bytes.
+[2023.02.02-23.21.24:574][  0]LogStaticMesh:   Total GPU size: 44112 bytes, Total disk size: 36516 bytes.
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Nanite build [0.03s]
+
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Environment/KitBash/SM_balconyWithTriangleSupportsDoorStucco.SM_balconyWithTriangleSupportsDoorStucco
+[2023.02.02-23.21.24:574][  0]LogStaticMesh: Adjacency [0.00s], tris: 684, UVs 2
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Environment/KitBash/SM_stoneDoor1.SM_stoneDoor1
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Display: Building static mesh SM_stuccoBrace1...
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 1131
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Num clusters 10. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Adjacency [0.00s], tris: 796, UVs 2
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Display: Building static mesh SM_stuccoBraceLong1...
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Input: 23 Clusters, 2540 Triangles and 5178 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Output without splits: 23 Clusters, 2540 Triangles and 5178 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Output with splits: 33 Clusters, 2540 Triangles and 5186 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 33, Slow Path Clusters: 0, 1 Material: 33, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Adjacency [0.00s], tris: 64, UVs 2
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 64
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Input: 1 Clusters, 64 Triangles and 128 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Output without splits: 1 Clusters, 64 Triangles and 128 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Output with splits: 1 Clusters, 64 Triangles and 128 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Root: GPU size: 2008 bytes. 1 Pages. 2008.000 bytes per page (6.128% utilization).
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Page data disk size: 2124 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Total GPU size: 2008 bytes, Total disk size: 2148 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Fallback 0/1 [0.02s], num tris: 1196
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Root: GPU size: 32180 bytes. 1 Pages. 32180.000 bytes per page (98.206% utilization).
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Streaming: GPU size: 49836 bytes. 1 Pages. 49836.000 bytes per page (38.022% utilization).
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Page data disk size: 67184 bytes. Fixup data size: 264 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Total GPU size: 82016 bytes, Total disk size: 67448 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Encode [0.01s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.714286
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Nanite build [0.08s]
+
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Adjacency [0.00s], tris: 748, UVs 2
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Num clusters 12. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Adjacency [0.00s], tris: 62, UVs 2
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 62
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Num clusters 6. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Input: 1 Clusters, 62 Triangles and 124 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Output without splits: 1 Clusters, 62 Triangles and 124 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Output with splits: 1 Clusters, 62 Triangles and 124 Vertices
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Root: GPU size: 1968 bytes. 1 Pages. 1968.000 bytes per page (6.006% utilization).
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Page data disk size: 2192 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh:   Total GPU size: 1968 bytes, Total disk size: 2216 bytes.
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoBrace1.SM_stuccoBrace1
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:575][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Input: 21 Clusters, 2634 Triangles and 5306 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output without splits: 21 Clusters, 2634 Triangles and 5306 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output with splits: 29 Clusters, 2634 Triangles and 5310 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Num clusters 3. Error 10.9250, 10.9250, 10.9250
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 29, Slow Path Clusters: 0, 1 Material: 29, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Num clusters 6. Error 9.5321, 9.5321, 9.5321
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Display: Building static mesh SM_stuccoBracesLong1...
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Root: GPU size: 31944 bytes. 1 Pages. 31944.000 bytes per page (97.485% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Streaming: GPU size: 51744 bytes. 1 Pages. 51744.000 bytes per page (39.478% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Page data disk size: 69136 bytes. Fixup data size: 248 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Total GPU size: 83688 bytes, Total disk size: 69384 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Encode [0.01s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Nanite build [0.08s]
+
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Num clusters 2. Error 24.5113, 24.5113, 24.5113
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Num clusters 1. Error 24.5113, 24.5113, 24.5113
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Environment/KitBash/SM_stuccoBraceLong1.SM_stuccoBraceLong1
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Environment/KitBash/SM_balconyWithTriangleSupportsDoorStone.SM_balconyWithTriangleSupportsDoorStone
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Adjacency [0.00s], tris: 74, UVs 2
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 74
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Fallback 0/1 [0.03s], num tris: 793
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Input: 1 Clusters, 74 Triangles and 148 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output without splits: 1 Clusters, 74 Triangles and 148 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output with splits: 1 Clusters, 74 Triangles and 148 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Root: GPU size: 2328 bytes. 1 Pages. 2328.000 bytes per page (7.104% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Page data disk size: 2552 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Total GPU size: 2328 bytes, Total disk size: 2576 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 682
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Environment/KitBash/SM_balconyWithTriangleSupportsDoorStoneCurve.SM_balconyWithTriangleSupportsDoorStoneCurve
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Input: 14 Clusters, 1736 Triangles and 3412 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output without splits: 14 Clusters, 1736 Triangles and 3412 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output with splits: 19 Clusters, 1736 Triangles and 3414 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 19, Slow Path Clusters: 0, 1 Material: 19, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Root: GPU size: 29876 bytes. 1 Pages. 29876.000 bytes per page (91.174% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Streaming: GPU size: 24148 bytes. 1 Pages. 24148.000 bytes per page (18.423% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Page data disk size: 49344 bytes. Fixup data size: 128 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Total GPU size: 54024 bytes, Total disk size: 49472 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Encode [0.01s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Nanite build [0.10s]
+
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Input: 16 Clusters, 1440 Triangles and 2966 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output without splits: 16 Clusters, 1440 Triangles and 2966 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Output with splits: 21 Clusters, 1440 Triangles and 2972 Vertices
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 21, Slow Path Clusters: 0, 1 Material: 21, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Root: GPU size: 31452 bytes. 1 Pages. 31452.000 bytes per page (95.984% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Streaming: GPU size: 14804 bytes. 1 Pages. 14804.000 bytes per page (11.295% utilization).
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Page data disk size: 39096 bytes. Fixup data size: 208 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh:   Total GPU size: 46256 bytes, Total disk size: 39304 bytes.
+[2023.02.02-23.21.24:576][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Nanite build [0.03s]
+
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 7. Error 11.0522, 11.0522, 11.0522
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 3. Error 10.2843, 10.2843, 10.2843
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 3. Error 27.3896, 27.3896, 27.3896
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 6. Error 10.4133, 10.4133, 10.4133
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Environment/KitBash/SM_stoneDoorBrace.SM_stoneDoorBrace
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/KitBash/SM_stuccoBracesLong1.SM_stuccoBracesLong1
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Environment/KitBash/SM_balconyWithTriangleSupportsDoorCurvedStucco.SM_balconyWithTriangleSupportsDoorCurvedStucco
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 8. Error 9.8022, 9.8022, 9.8022
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 2. Error 22.0563, 22.0563, 22.0563
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 4. Error 9.4928, 9.4928, 9.4928
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 2. Error 27.3896, 27.3896, 27.3896
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 1. Error 22.0563, 22.0563, 22.0563
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Reduce [0.03s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 1. Error 34.3871, 34.3871, 34.3871
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Reduce [0.12s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 2. Error 24.7486, 24.7486, 24.7486
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Display: Building static mesh SM_stuccoCrissCrossLong1...
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 4. Error 25.2665, 25.2665, 25.2665
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Display: Building static mesh SM_stuccoLowBoards1...
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Display: Building static mesh SM_stuccoLowCross1...
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Display: Building static mesh SM_stuccoShortLong1...
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Display: Building static mesh SM_stuccoShortLongBoards1...
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Display: Building static mesh SM_stuccoShortLongBoardsSpaced1...
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 716
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 1. Error 24.7486, 24.7486, 24.7486
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Reduce [0.05s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Input: 12 Clusters, 1504 Triangles and 2980 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Output without splits: 12 Clusters, 1504 Triangles and 2980 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Output with splits: 16 Clusters, 1504 Triangles and 2986 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Root: GPU size: 31512 bytes. 1 Pages. 31512.000 bytes per page (96.167% utilization).
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Streaming: GPU size: 14636 bytes. 1 Pages. 14636.000 bytes per page (11.166% utilization).
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Page data disk size: 39256 bytes. Fixup data size: 208 bytes.
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Total GPU size: 46148 bytes, Total disk size: 39464 bytes.
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Adjacency [0.00s], tris: 98, UVs 2
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Nanite build [0.05s]
+
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 98
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Adjacency [0.00s], tris: 50, UVs 2
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Input: 1 Clusters, 98 Triangles and 196 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Output without splits: 1 Clusters, 98 Triangles and 196 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Output with splits: 1 Clusters, 98 Triangles and 196 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Root: GPU size: 3000 bytes. 1 Pages. 3000.000 bytes per page (9.155% utilization).
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Page data disk size: 3080 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Total GPU size: 3000 bytes, Total disk size: 3104 bytes.
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 50
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Input: 1 Clusters, 50 Triangles and 100 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Output without splits: 1 Clusters, 50 Triangles and 100 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh:   Output with splits: 1 Clusters, 50 Triangles and 100 Vertices
+[2023.02.02-23.21.24:577][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Root: GPU size: 1612 bytes. 1 Pages. 1612.000 bytes per page (4.919% utilization).
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Page data disk size: 1728 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Total GPU size: 1612 bytes, Total disk size: 1752 bytes.
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Adjacency [0.00s], tris: 74, UVs 2
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 74
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Input: 1 Clusters, 74 Triangles and 148 Vertices
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Output without splits: 1 Clusters, 74 Triangles and 148 Vertices
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Output with splits: 1 Clusters, 74 Triangles and 148 Vertices
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: Adjacency [0.00s], tris: 76, UVs 2
+[2023.02.02-23.21.24:578][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Root: GPU size: 2328 bytes. 1 Pages. 2328.000 bytes per page (7.104% utilization).
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Page data disk size: 2552 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:578][  0]LogStaticMesh:   Total GPU size: 2328 bytes, Total disk size: 2576 bytes.
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 76
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Input: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Output without splits: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Output with splits: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Root: GPU size: 2364 bytes. 1 Pages. 2364.000 bytes per page (7.214% utilization).
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Page data disk size: 2460 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Total GPU size: 2364 bytes, Total disk size: 2484 bytes.
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 2. Error 25.2665, 25.2665, 25.2665
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 3. Error 27.1049, 27.1049, 27.1049
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoShortLongBoardsSpaced1.SM_stuccoShortLongBoardsSpaced1
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoShortLong1.SM_stuccoShortLong1
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Adjacency [0.00s], tris: 184, UVs 2
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 1. Error 36.9972, 36.9972, 36.9972
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Reduce [0.12s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Environment/KitBash/SM_stoneDoorCurve1.SM_stoneDoorCurve1
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoCrissCrossLong1.SM_stuccoCrissCrossLong1
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Adjacency [0.00s], tris: 302, UVs 2
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoLowCross1.SM_stuccoLowCross1
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 2. Error 27.1049, 27.1049, 27.1049
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 1. Error 12.9142, 12.9142, 12.9142
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Num clusters 1. Error 37.0588, 37.0588, 37.0588
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Reduce [0.14s]
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 184
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Input: 3 Clusters, 310 Triangles and 646 Vertices
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Output without splits: 3 Clusters, 310 Triangles and 646 Vertices
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Output with splits: 4 Clusters, 310 Triangles and 646 Vertices
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:579][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Root: GPU size: 9972 bytes. 1 Pages. 9972.000 bytes per page (30.432% utilization).
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Page data disk size: 8152 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:579][  0]LogStaticMesh:   Total GPU size: 9972 bytes, Total disk size: 8192 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Num clusters 2. Error 11.2911, 11.2911, 11.2911
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Num clusters 4. Error 25.9779, 25.9779, 25.9779
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Num clusters 1. Error 12.9619, 12.9619, 12.9619
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Fallback 0/1 [0.03s], num tris: 1062
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Fallback 0/1 [0.03s], num tris: 762
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Input: 23 Clusters, 2836 Triangles and 5544 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Output without splits: 23 Clusters, 2836 Triangles and 5544 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Output with splits: 29 Clusters, 2836 Triangles and 5548 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 29, Slow Path Clusters: 0, 1 Material: 29, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 300
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Input: 19 Clusters, 1678 Triangles and 3387 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Output without splits: 19 Clusters, 1678 Triangles and 3387 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Output with splits: 24 Clusters, 1678 Triangles and 3393 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 24, Slow Path Clusters: 0, 1 Material: 24, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Input: 7 Clusters, 680 Triangles and 1430 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Output without splits: 7 Clusters, 680 Triangles and 1430 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Output with splits: 10 Clusters, 680 Triangles and 1434 Vertices
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 10, Slow Path Clusters: 0, 1 Material: 10, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Root: GPU size: 31024 bytes. 1 Pages. 31024.000 bytes per page (94.678% utilization).
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Streaming: GPU size: 22040 bytes. 1 Pages. 22040.000 bytes per page (16.815% utilization).
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Page data disk size: 48224 bytes. Fixup data size: 240 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Total GPU size: 53064 bytes, Total disk size: 48464 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Root: GPU size: 22020 bytes. 1 Pages. 22020.000 bytes per page (67.200% utilization).
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Page data disk size: 15904 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Total GPU size: 22020 bytes, Total disk size: 15960 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Root: GPU size: 30904 bytes. 1 Pages. 30904.000 bytes per page (94.312% utilization).
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Streaming: GPU size: 56816 bytes. 1 Pages. 56816.000 bytes per page (43.347% utilization).
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Page data disk size: 68276 bytes. Fixup data size: 248 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh:   Total GPU size: 87720 bytes, Total disk size: 68524 bytes.
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Nanite build [0.08s]
+
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Nanite build [0.02s]
+
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Nanite build [0.16s]
+
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Num clusters 2. Error 26.6991, 26.6991, 26.6991
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Environment/KitBash/SM_stuccoLowBoards1.SM_stuccoLowBoards1
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Num clusters 1. Error 31.6419, 31.6419, 31.6419
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Reduce [0.15s]
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCrissCross1...
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCrissCrossLowCross1...
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCrissCrossLowBoards1...
+[2023.02.02-23.21.24:580][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCross1...
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCrossLowBoards1...
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Fallback 0/1 [0.05s], num tris: 1466
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCrossLowCross1...
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Built static mesh [0.22s] /Game/Environment/KitBash/SM_balconyWithCurveSupportsDoorStucco.SM_balconyWithCurveSupportsDoorStucco
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Adjacency [0.00s], tris: 76, UVs 2
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 76
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Input: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output without splits: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output with splits: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Root: GPU size: 2364 bytes. 1 Pages. 2364.000 bytes per page (7.214% utilization).
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Page data disk size: 2460 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Total GPU size: 2364 bytes, Total disk size: 2484 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Adjacency [0.00s], tris: 88, UVs 2
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Environment/KitBash/SM_stuccoShortLongBoards1.SM_stuccoShortLongBoards1
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Environment/KitBash/SM_stoneDoorBraceCurve.SM_stoneDoorBraceCurve
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Input: 28 Clusters, 3508 Triangles and 6891 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output without splits: 28 Clusters, 3508 Triangles and 6891 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output with splits: 37 Clusters, 3508 Triangles and 6903 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Adjacency [0.00s], tris: 88, UVs 2
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 88
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 37, Slow Path Clusters: 0, 1 Material: 37, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Input: 1 Clusters, 88 Triangles and 176 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output without splits: 1 Clusters, 88 Triangles and 176 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output with splits: 1 Clusters, 88 Triangles and 176 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 88
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Root: GPU size: 2708 bytes. 1 Pages. 2708.000 bytes per page (8.264% utilization).
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Page data disk size: 2800 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Total GPU size: 2708 bytes, Total disk size: 2824 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Input: 1 Clusters, 88 Triangles and 176 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output without splits: 1 Clusters, 88 Triangles and 176 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Output with splits: 1 Clusters, 88 Triangles and 176 Vertices
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:581][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Root: GPU size: 2708 bytes. 1 Pages. 2708.000 bytes per page (8.264% utilization).
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:581][  0]LogStaticMesh:   Page data disk size: 2800 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Total GPU size: 2708 bytes, Total disk size: 2824 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Adjacency [0.00s], tris: 100, UVs 2
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 100
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Input: 1 Clusters, 100 Triangles and 200 Vertices
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Output without splits: 1 Clusters, 100 Triangles and 200 Vertices
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Output with splits: 1 Clusters, 100 Triangles and 200 Vertices
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Root: GPU size: 3056 bytes. 1 Pages. 3056.000 bytes per page (9.326% utilization).
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Page data disk size: 3136 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Total GPU size: 3056 bytes, Total disk size: 3160 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCurveLowBoards1...
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Root: GPU size: 30576 bytes. 1 Pages. 30576.000 bytes per page (93.311% utilization).
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Streaming: GPU size: 77912 bytes. 1 Pages. 77912.000 bytes per page (59.442% utilization).
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Page data disk size: 89452 bytes. Fixup data size: 160 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh:   Total GPU size: 108488 bytes, Total disk size: 89612 bytes.
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Encode [0.01s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoUpCross1.SM_stuccoUpCross1
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Adjacency [0.00s], tris: 208, UVs 2
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Nanite build [0.18s]
+
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Adjacency [0.00s], tris: 196, UVs 2
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCurveLowCross3...
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpCurveLowCrossLong1...
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoUpCrossLowCross1.SM_stuccoUpCrossLowCross1
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_stuccoUpCrissCross1.SM_stuccoUpCrissCross1
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Num clusters 1. Error 17.7655, 17.7655, 17.7655
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Num clusters 1. Error 12.9152, 12.9152, 12.9152
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Environment/KitBash/SM_stuccoUpCrissCrossLowCross1.SM_stuccoUpCrissCrossLowCross1
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 208
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpWindow1...
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpWindowCurvedLowCross1...
+[2023.02.02-23.21.24:582][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Input: 3 Clusters, 334 Triangles and 674 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Output without splits: 3 Clusters, 334 Triangles and 674 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Output with splits: 3 Clusters, 334 Triangles and 674 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Root: GPU size: 10220 bytes. 1 Pages. 10220.000 bytes per page (31.189% utilization).
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Page data disk size: 8544 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Total GPU size: 10220 bytes, Total disk size: 8584 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Fallback 0/1 [0.06s], num tris: 1132
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpWindowCurveLowBoards1...
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpHighCross1...
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 196
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Adjacency [0.00s], tris: 234, UVs 2
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Input: 3 Clusters, 322 Triangles and 654 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Output without splits: 3 Clusters, 322 Triangles and 654 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Output with splits: 4 Clusters, 322 Triangles and 654 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Adjacency [0.00s], tris: 144, UVs 2
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Root: GPU size: 10052 bytes. 1 Pages. 10052.000 bytes per page (30.676% utilization).
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Page data disk size: 8452 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Total GPU size: 10052 bytes, Total disk size: 8492 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Adjacency [0.00s], tris: 252, UVs 2
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Input: 34 Clusters, 2948 Triangles and 5726 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Output without splits: 34 Clusters, 2948 Triangles and 5726 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Output with splits: 43 Clusters, 2948 Triangles and 5734 Vertices
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 43, Slow Path Clusters: 0, 1 Material: 43, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Built static mesh [0.24s] /Game/Environment/KitBash/SM_balconyWithCurveSupportsDoorStone.SM_balconyWithCurveSupportsDoorStone
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Num clusters 1. Error 5.9317, 5.9317, 5.9317
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Adjacency [0.00s], tris: 212, UVs 2
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/KitBash/SM_stuccoUpCrissCrossLowBoards1.SM_stuccoUpCrissCrossLowBoards1
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Num clusters 1. Error 13.3197, 13.3197, 13.3197
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 144
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Root: GPU size: 32392 bytes. 1 Pages. 32392.000 bytes per page (98.853% utilization).
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Streaming: GPU size: 58828 bytes. 1 Pages. 58828.000 bytes per page (44.882% utilization).
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Page data disk size: 73184 bytes. Fixup data size: 256 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh:   Total GPU size: 91220 bytes, Total disk size: 73440 bytes.
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Encode [0.01s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Adjacency [0.00s], tris: 224, UVs 2
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 234
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:583][  0]LogStaticMesh: Nanite build [0.20s]
+
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Input: 3 Clusters, 360 Triangles and 660 Vertices
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Output without splits: 3 Clusters, 360 Triangles and 660 Vertices
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Output with splits: 3 Clusters, 360 Triangles and 660 Vertices
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Input: 3 Clusters, 270 Triangles and 482 Vertices
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Output without splits: 3 Clusters, 270 Triangles and 482 Vertices
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Output with splits: 3 Clusters, 270 Triangles and 482 Vertices
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Root: GPU size: 10148 bytes. 1 Pages. 10148.000 bytes per page (30.969% utilization).
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Page data disk size: 8256 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Total GPU size: 10148 bytes, Total disk size: 8296 bytes.
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Root: GPU size: 7492 bytes. 1 Pages. 7492.000 bytes per page (22.864% utilization).
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Page data disk size: 5124 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:584][  0]LogStaticMesh:   Total GPU size: 7492 bytes, Total disk size: 5164 bytes.
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Adjacency [0.00s], tris: 76, UVs 2
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 76
+[2023.02.02-23.21.24:584][  0]LogStaticMesh: Num clusters 1. Error 12.9308, 12.9308, 12.9308
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/KitBash/SM_stuccoUpCrossLowBoards1.SM_stuccoUpCrossLowBoards1
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Input: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output without splits: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output with splits: 1 Clusters, 76 Triangles and 152 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Root: GPU size: 2364 bytes. 1 Pages. 2364.000 bytes per page (7.214% utilization).
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Page data disk size: 2460 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Total GPU size: 2364 bytes, Total disk size: 2484 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 252
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Input: 3 Clusters, 378 Triangles and 722 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output without splits: 3 Clusters, 378 Triangles and 722 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output with splits: 3 Clusters, 378 Triangles and 722 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Root: GPU size: 10984 bytes. 1 Pages. 10984.000 bytes per page (33.521% utilization).
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Page data disk size: 9548 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Total GPU size: 10984 bytes, Total disk size: 9588 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Adjacency [0.00s], tris: 332, UVs 2
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Num clusters 1. Error 6.8551, 6.8551, 6.8551
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 212
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Num clusters 3. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Input: 3 Clusters, 338 Triangles and 613 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output without splits: 3 Clusters, 338 Triangles and 613 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output with splits: 3 Clusters, 338 Triangles and 613 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Root: GPU size: 9452 bytes. 1 Pages. 9452.000 bytes per page (28.845% utilization).
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Page data disk size: 7292 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Total GPU size: 9452 bytes, Total disk size: 7332 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Num clusters 1. Error 8.0183, 8.0183, 8.0183
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 224
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Input: 3 Clusters, 350 Triangles and 641 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output without splits: 3 Clusters, 350 Triangles and 641 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Output with splits: 3 Clusters, 350 Triangles and 641 Vertices
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:585][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Root: GPU size: 9844 bytes. 1 Pages. 9844.000 bytes per page (30.042% utilization).
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Page data disk size: 7664 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:585][  0]LogStaticMesh:   Total GPU size: 9844 bytes, Total disk size: 7704 bytes.
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Num clusters 2. Error 6.3139, 6.3139, 6.3139
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Num clusters 1. Error 15.1452, 15.1452, 15.1452
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 314
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Input: 6 Clusters, 710 Triangles and 1360 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Output without splits: 6 Clusters, 710 Triangles and 1360 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Output with splits: 7 Clusters, 710 Triangles and 1360 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Root: GPU size: 20816 bytes. 1 Pages. 20816.000 bytes per page (63.525% utilization).
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Page data disk size: 14440 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Total GPU size: 20816 bytes, Total disk size: 14496 bytes.
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Nanite build [0.02s]
+
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Fallback 0/1 [0.07s], num tris: 1542
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoUpCurveLowCrossLong1.SM_stuccoUpCurveLowCrossLong1
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoUpHighCross1.SM_stuccoUpHighCross1
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoUpWindowCurveLowBoards1.SM_stuccoUpWindowCurveLowBoards1
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoUpWindowCurvedLowCross1.SM_stuccoUpWindowCurvedLowCross1
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoUpWindow1.SM_stuccoUpWindow1
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoUpCurveLowCross3.SM_stuccoUpCurveLowCross3
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.28s] /Game/Environment/KitBash/SM_balconyWithCurveSupportsDoorCurvedStucco.SM_balconyWithCurveSupportsDoorCurvedStucco
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Environment/KitBash/SM_stuccoUpCurveLowBoards1.SM_stuccoUpCurveLowBoards1
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Input: 30 Clusters, 3746 Triangles and 7259 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Output without splits: 30 Clusters, 3746 Triangles and 7259 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Output with splits: 40 Clusters, 3746 Triangles and 7264 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 40, Slow Path Clusters: 0, 1 Material: 40, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpWindowLowBoards1...
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Display: Building static mesh SM_stuccoWindowCurveTall1...
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Root: GPU size: 30544 bytes. 1 Pages. 30544.000 bytes per page (93.213% utilization).
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Streaming: GPU size: 83804 bytes. 1 Pages. 83804.000 bytes per page (63.937% utilization).
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Page data disk size: 92768 bytes. Fixup data size: 160 bytes.
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Total GPU size: 114348 bytes, Total disk size: 92928 bytes.
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Encode [0.02s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Display: Building static mesh SM_wallBraceThickSides1...
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Display: Building static mesh SM_stuccoUpWindowLowCross1...
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Display: Building static mesh SM_wallThickSides1...
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Display: Building static mesh SM_woodenBeamThick...
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Nanite build [0.24s]
+
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 2
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Num clusters 1. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 12
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2023.02.02-23.21.24:586][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Root: GPU size: 524 bytes. 1 Pages. 524.000 bytes per page (1.599% utilization).
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Page data disk size: 684 bytes. Fixup data size: 24 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Total GPU size: 524 bytes, Total disk size: 708 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Environment/KitBash/SM_woodenBeamThick.SM_woodenBeamThick
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Adjacency [0.00s], tris: 160, UVs 2
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 2. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Adjacency [0.00s], tris: 344, UVs 2
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 1. Error 7.6480, 7.6480, 7.6480
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Reduce [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 3. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Adjacency [0.00s], tris: 520, UVs 2
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 160
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Adjacency [0.00s], tris: 268, UVs 2
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Input: 3 Clusters, 286 Triangles and 582 Vertices
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Output without splits: 3 Clusters, 286 Triangles and 582 Vertices
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Output with splits: 4 Clusters, 286 Triangles and 582 Vertices
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Root: GPU size: 9048 bytes. 1 Pages. 9048.000 bytes per page (27.612% utilization).
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Page data disk size: 6660 bytes. Fixup data size: 40 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Total GPU size: 9048 bytes, Total disk size: 6700 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Nanite build [0.00s]
+
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.400000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Adjacency [0.00s], tris: 496, UVs 2
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 7. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Leaves [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 4. Error 0.0000, 0.0000, 0.0000
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 2. Error 5.6953, 5.6953, 5.6953
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 1. Error 12.9166, 12.9166, 12.9166
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 2. Error 2.7338, 2.7338, 2.7338
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 3. Error 8.2887, 8.2887, 8.2887
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Built static mesh [0.31s] /Game/Environment/KitBash/SM_balconyWithCurveSupportsDoorCurvedStone.SM_balconyWithCurveSupportsDoorCurvedStone
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 266
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 2. Error 9.5892, 9.5892, 9.5892
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Input: 7 Clusters, 646 Triangles and 1316 Vertices
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Output without splits: 7 Clusters, 646 Triangles and 1316 Vertices
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Output with splits: 9 Clusters, 646 Triangles and 1318 Vertices
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Root: GPU size: 20344 bytes. 1 Pages. 20344.000 bytes per page (62.085% utilization).
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Page data disk size: 13136 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh:   Total GPU size: 20344 bytes, Total disk size: 13192 bytes.
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Environment/KitBash/SM_stuccoUpWindowLowCross1.SM_stuccoUpWindowLowCross1
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Nanite build [0.01s]
+
+[2023.02.02-23.21.24:587][  0]LogStaticMesh: Num clusters 1. Error 19.6994, 19.6994, 19.6994
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Reduce [0.01s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Num clusters 2. Error 9.6659, 9.6659, 9.6659
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 494
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Num clusters 1. Error 9.9958, 9.9958, 9.9958
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Input: 7 Clusters, 874 Triangles and 1782 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Output without splits: 7 Clusters, 874 Triangles and 1782 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Output with splits: 9 Clusters, 874 Triangles and 1786 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Num clusters 1. Error 20.5446, 20.5446, 20.5446
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Reduce [0.02s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Root: GPU size: 27364 bytes. 1 Pages. 27364.000 bytes per page (83.508% utilization).
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Page data disk size: 22672 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Total GPU size: 27364 bytes, Total disk size: 22728 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Nanite build [0.02s]
+
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Environment/KitBash/SM_stuccoUpWindowLowBoards1.SM_stuccoUpWindowLowBoards1
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 518
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 296
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Input: 6 Clusters, 720 Triangles and 1249 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Output without splits: 6 Clusters, 720 Triangles and 1249 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Output with splits: 6 Clusters, 720 Triangles and 1249 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 6, Slow Path Clusters: 0, 1 Material: 6, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Root: GPU size: 19208 bytes. 1 Pages. 19208.000 bytes per page (58.618% utilization).
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Page data disk size: 12600 bytes. Fixup data size: 56 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Total GPU size: 19208 bytes, Total disk size: 12656 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: ConstrainClusters:
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Input: 13 Clusters, 1276 Triangles and 2650 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Output without splits: 13 Clusters, 1276 Triangles and 2650 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Output with splits: 20 Clusters, 1276 Triangles and 2662 Vertices
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 20, Slow Path Clusters: 0, 1 Material: 20, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Nanite build [0.03s]
+
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Environment/KitBash/SM_wallThickSides1.SM_wallThickSides1
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: WritePages:
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Root: GPU size: 31156 bytes. 1 Pages. 31156.000 bytes per page (95.081% utilization).
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Streaming: GPU size: 10168 bytes. 1 Pages. 10168.000 bytes per page (7.758% utilization).
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Page data disk size: 33464 bytes. Fixup data size: 224 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh:   Total GPU size: 41324 bytes, Total disk size: 33688 bytes.
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Encode [0.00s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Imposter [0.00s]
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Nanite build [0.03s]
+
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_stuccoWindowCurveTall1.SM_stuccoWindowCurveTall1
+[2023.02.02-23.21.24:588][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Environment/KitBash/SM_wallBraceThickSides1.SM_wallBraceThickSides1
+[2023.02.02-23.21.24:588][  0]LogTexture: Display: Building textures: /Game/Levels/TerAnothVillage.TerAnothVillage:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0.Heightmap_0 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.24:588][  0]LogMaterial: Display: Missing cached shadermap for M_MS_Foliage_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 851FAEE5F92998D7FC3028DD56729701821D4FA1), compiling. 
+[2023.02.02-23.21.24:730][  0]MapCheck: Warning: InstancedFoliageActor_25600_2_0_0 Foliage instances for a missing static mesh have been removed. 
+[2023.02.02-23.21.28:863][  0]LogStaticMesh: Display: Building static mesh S_Sea_Wheatgrass_ui2oagjia_Var1_lod1...
+[2023.02.02-23.21.28:863][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/S_Sea_Wheatgrass_ui2oagjia_Var1_lod1.S_Sea_Wheatgrass_ui2oagjia_Var1_lod1
+[2023.02.02-23.21.28:863][  0]LogTexture: Display: Building textures: /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/T_Sea_Wheatgrass_ui2oagjia_Billboard_N.T_Sea_Wheatgrass_ui2oagjia_Billboard_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.28:863][  0]LogTexture: Display: Building textures: /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/T_Sea_Wheatgrass_ui2oagjia_Billboard_D.T_Sea_Wheatgrass_ui2oagjia_Billboard_D (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.28:863][  0]LogLinker: Warning: [AssetLog] H:\TerAnoth\TerAnoth\TerAnothCity\Content\__ExternalActors__\Levels\TerAnothVillage\F\2W\FVZEN26NT7Z7QU1JHMQ2ZW.uasset: Failed to load '/Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_07_FoliageType': Can't find file.
+[2023.02.02-23.21.28:864][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_07_FoliageType'
+[2023.02.02-23.21.29:680][  0]LogTexture: Display: Building textures: /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/T_SeaWheatgrass_ui2oagjia_2K_billboard_ART.T_SeaWheatgrass_ui2oagjia_2K_billboard_ART (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.29:681][  0]LogLinker: Warning: [AssetLog] H:\TerAnoth\TerAnoth\TerAnothCity\Content\__ExternalActors__\Levels\TerAnothVillage\F\2W\FVZEN26NT7Z7QU1JHMQ2ZW.uasset: Failed to load '/Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_07': Can't find file.
+[2023.02.02-23.21.29:681][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StonePineForest/Meshes/Trees/StonePines/SM_SP_07'
+[2023.02.02-23.21.30:512][  0]LogTexture: Display: Building textures: /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/T_Sea_Wheatgrass_ui2oagjia_2K_N.T_Sea_Wheatgrass_ui2oagjia_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.30:512][  0]LogTexture: Display: Building textures: /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/T_SeaWheatgrass_ui2oagjia_2K_ART.T_SeaWheatgrass_ui2oagjia_2K_ART (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.30:512][  0]MapCheck: Warning: InstancedFoliageActor_25600_2_1_0 Foliage instances for a missing static mesh have been removed. 
+[2023.02.02-23.21.31:746][  0]LogTexture: Display: Building textures: /Game/Megascans/3D_Plants/Sea_Wheatgrass_ui2oagjia/T_Sea_Wheatgrass_ui2oagjia_2K_D.T_Sea_Wheatgrass_ui2oagjia_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.31:746][  0]LogTexture: Display: Building textures: /Game/Levels/TerAnothVillage.TerAnothVillage:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0.Heightmap_2 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.02.02-23.21.31:746][  0]MapCheck: Warning: InstancedFoliageActor_25600_2_2_0 Foliage instances for a missing static mesh have been removed. 
+[2023.02.02-23.21.31:857][  0]MapCheck: Warning: InstancedFoliageActor_25600_-1_-2_-1 Foliage instances for a missing static mesh have been removed. 
+[2023.02.02-23.21.31:892][  0]LogWorldPartition: Display: WorldPartition initialize took 25.6 sec
+[2023.02.02-23.21.33:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.02-23.21.33:793][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.02.02-23.21.33:795][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.02-23.21.33:827][  0]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 32.535ms to complete.
+[2023.02.02-23.21.33:874][  0]LogFileHelpers: Loading map 'TerAnothVillage' took 29.177
+[2023.02.02-23.21.33:938][  0]LogUnrealEdMisc: Total Editor Startup Time, took 120.672
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: ================================================
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: Total job queries 343, among them cache hits 0 (0.00%)
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: Tracking 293 distinct input hashes that result in 184 distinct outputs (62.80%)
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: RAM used: 0.48 MB (0.00 GB) of 5734.40 MB (5.60 GB) budget. Usage: 0.01%
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: Shaders Compiled: 343
+[2023.02.02-23.21.33:938][  0]LogShaderCompilers: Display: Jobs assigned 336, completed 293 (87.20%)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Average time worker was idle: 3.41 s
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 3.20 s, longest 14.97 s
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Job execution time: average 5.03 s, max 10.77 s
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 8.39 s, max 17.56
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.46 s
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Jobs were issued in 121 batches (only local compilation was used), average 2.78 jobs/batch
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Average processing rate: 7.07 jobs/sec
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Effective parallelization: 9.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 13
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 2.02 sec, max 2.14 sec, min 1.86 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 1.98 sec, max 4.50 sec, min 1.17 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 1.88 sec, max 4.44 sec, min 1.35 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 1.87 sec, max 4.29 sec, min 1.23 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.04% of total time (compiled   16 times, average 1.49 sec, max 3.56 sec, min 1.03 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.01% of total time (compiled   12 times, average 1.98 sec, max 4.50 sec, min 1.17 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.73% of total time (compiled   13 times, average 1.74 sec, max 4.71 sec, min 1.08 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.53% of total time (compiled   12 times, average 1.82 sec, max 4.31 sec, min 1.24 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.27% of total time (compiled   14 times, average 1.49 sec, max 1.77 sec, min 1.24 sec)
+[2023.02.02-23.21.33:939][  0]LogShaderCompilers: Display: ================================================
+[2023.02.02-23.21.34:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-23.21.34:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-23.21.34:291][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-23.21.34:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-23.21.34:690][  0]LogSlate: Took 0.016734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.02-23.21.34:707][  0]LogSlate: Took 0.009780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.02-23.21.34:734][  0]LogSlate: Took 0.023878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.02-23.21.34:755][  0]LogSlate: Took 0.018486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.02-23.21.34:777][  0]LogSlate: Took 0.020183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.02-23.21.34:817][  0]LogViewport: Scene viewport resized to 2038x836, mode Windowed.
+[2023.02.02-23.21.35:129][  0]LogSlate: Took 0.148794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.02-23.21.41:076][  0]LogStall: Startup...
+[2023.02.02-23.21.41:079][  0]LogStall: Startup complete.
+[2023.02.02-23.21.41:242][  0]LogLoad: (Engine Initialization) Total time: 127.98 seconds
+[2023.02.02-23.21.41:242][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.02-23.21.41:343][  0]LogAssetRegistry: Asset discovery search completed in 111.7273 seconds
+[2023.02.02-23.21.41:364][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.02.02-23.21.41:365][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:365][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [00000000000009A4], Path [H:/TerAnoth/TerAnoth/TerAnothCity/Content/] 
+[2023.02.02-23.21.41:365][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:365][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [00000000000013E4], Path [H:/TerAnoth/TerAnoth/TerAnothCity/Content/] 
+[2023.02.02-23.21.41:367][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:367][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/Developers/sproxy/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:367][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:369][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:370][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [000000000000193C], Path [H:/TerAnoth/TerAnoth/TerAnothCity/Saved/Collections/] 
+[2023.02.02-23.21.41:371][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/Developers/sproxy/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:371][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [0000000000001934], Path [H:/TerAnoth/TerAnoth/TerAnothCity/Content/Developers/sproxy/Collections/] 
+[2023.02.02-23.21.41:371][  0]LogDirectoryWatcher: Display: A directory notification failed for 'H:/TerAnoth/TerAnoth/TerAnothCity/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.02.02-23.21.41:371][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [0000000000001930], Path [H:/TerAnoth/TerAnoth/TerAnothCity/Content/Collections/] 
+[2023.02.02-23.21.41:375][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.02-23.21.43:913][  2]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2023.02.02-23.21.45:875][  3]LogDerivedDataCache: C:/Users/sproxy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.366 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.02-23.23.15:719][261]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.02-23.24.04:163][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Environment/KitBash/Blueprints/BP_ProcHouse.BP_ProcHouse
+[2023.02.02-23.24.04:165][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
